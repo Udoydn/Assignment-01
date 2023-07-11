@@ -216,3 +216,58 @@
 }
 
 /* latest-flower-container end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Latest-Deals start */
+
+.Latest-Deals {
+    background-image: url("./images/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin-bottom: 150px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-email {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.Latest-Deals input {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    border: none;
+}
+
+::placeholder {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+/* Latest-Deals start */
