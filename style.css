@@ -96,7 +96,7 @@
 .featured-img {
     background-color: #fed4dd;
     border-radius: 300px 300px 0px 0px;
-    background-image: url("./images/pngwing\ 8.png");
+    background-image: url("./img/pngwing\ 8.png");
     background-position: center;
     background-repeat: no-repeat;
     box-shadow: 3px 5px 8px gray;
@@ -237,7 +237,7 @@
 /* Latest-Deals start */
 
 .Latest-Deals {
-    background-image: url("./images/Rectangle\ 9.png");
+    background-image: url("./img/Rectangle\ 9.png");
     background-position: center;
     background-repeat: no-repeat;
     height: 50vh;
