@@ -271,3 +271,53 @@
 }
 
 /* Latest-Deals start */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer part start */
+
+.footer {
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.footer-heading {
+    font-size: 48px;
+    margin-bottom: 40px;
+    font-weight: 800;
+}
+
+.footer-heading-2 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+.footer-paragraph {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* footer part end */
